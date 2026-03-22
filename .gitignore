@@ -1,0 +1,34 @@
+# dependencies
+/node_modules
+
+# no longer check-in docs for builds.  This is handled by Netlify
+/docs
+
+cypress/downloads
+cypress/e2e/logs
+
+# playwright
+tools/playwright-report
+tools/test-results
+test-results
+.cache
+
+/coverage
+
+# symlink for test-models repo
+public/test-models
+
+# misc
+.DS_Store
+.vscode
+.idea
+*.log
+*~
+\#*
+.\#*
+
+# Certs
+*.pem
+
+# Local Netlify folder
+.netlify

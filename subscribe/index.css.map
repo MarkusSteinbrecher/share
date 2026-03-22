@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": ["../../src/subscribe/index.css"],
+  "sourcesContent": ["/* subscribe/index.css */\nbody {\n  margin: 0;\n  padding: 0;\n  box-sizing: border-box;\n}\n\n.light {\n  background-color: #FFFFFF;\n  color: #000000;\n}\n\n.dark {\n  background-color: #414141;\n  color: #FFFFFF;\n}"],
+  "mappings": "AACA,KADA,OAEU,EAFV,QAGW,EACT,WAAY,UACd,CAEA,CAAC,MACC,iBAAkB,KAClB,MAAO,IACT,CAEA,CAAC,KACC,iBAAkB,QAClB,MAAO,IACT",
+  "names": []
+}
